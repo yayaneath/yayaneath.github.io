@@ -2,7 +2,9 @@
 layout: default
 ---
 
-I am Brayan, a PhD student at the University of Alicante (Spain) working in **Robotic Grasping and Machine Learning**. My research mainly focuses in finding ways to compute grasping points using **visual perception** as well as checking properties of the grasp (i.e. stability) using **tactile perception**. As a dreamer person, I would like to provide robots with the ability to challenge us in tasks which are natural for humans like grasping novel objects in the wild, predicting the outcome of a grasp using tactile sense or stabilising a grasped object by controlling the forces applied by the robotic fingers.
+I am Brayan, a PhD student at the University of Alicante (Spain) working in **Robotic Grasping and Machine Learning**. My research mainly focuses in finding ways to compute grasping points using **visual perception** as well as checking properties of the grasp using **tactile perception**. As a dreamer person, I would like to provide robots with the ability to tackle tasks which are natural for humans like grasping novel objects in the wild, predicting the outcome of a grasp or stabilising a grasped object using multiple robotic fingers.
+
+I am passionate about learning new things and I am continuously looking for challenges. During my free time **I love reading books, listening and playing music, and also walking my dog**.
 
 ## Journal Publications
 
@@ -26,11 +28,11 @@ I am Brayan, a PhD student at the University of Alicante (Spain) working in **Ro
 
 - **Zapata-Impata, B. S.**, Gil, P., Garcia-garcia, A., Orts-escolano, S., & Garcia-rodriguez, J. (2019). Tactile Graphs for Grasp Stability Prediction. _In International Conference on Learning Representations (ICLR 2019). Workshop on Representation Learning on Graphs and Manifolds_ (pp. 2015–2020). \[[paper](https://rlgm.github.io/papers/)\]
 
-- Castro-Vargas, J. A., **Zapata-Impata, B. S.**, Gil, P., Garcia-Rodriguez, J., & Torres, F. (2019). 3DCNN Performance in Hand Gesture Recognition Applied to Robot Arm Interaction. _In 8th International Conference on Pattern Recognition Applications and Methods (ICPRAM)_. \[[paper](http://insticc.org/node/TechnicalProgram/icpram/presentationDetails/75702)\]
+- Castro-Vargas, J. A., **Zapata-Impata, B. S.**, Gil, P., Garcia-Rodriguez, J., & Torres, F. (2019). 3DCNN Performance in Hand Gesture Recognition Applied to Robot Arm Interaction. _In 8th International Conference on Pattern Recognition Applications and Methods (ICPRAM 2019)_. \[[paper](http://insticc.org/node/TechnicalProgram/icpram/presentationDetails/75702)\]
 
 - **Zapata-Impata, B. S.**, Gil, P., & Torres, F. (2018). Non-Matrix Tactile Sensors: How Can Be Exploited Their Local Connectivity For Predicting Grasp Stability? _In IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2018). Workshop on RoboTac: New Progress in Tactile Perception and Learning in Robotics_, (pp. 1–4). \[[arxiv](http://arxiv.org/abs/1809.05551)\]
 
-- **Zapata-Impata, B. S.**, Mateo, C. M., Gil, P., & Pomares, J. (2017). Using Geometry to Detect Grasping Points on 3D Unknown Point Cloud. _In Proceedings of the 14th International Conference on Informatics in Control, Automation and Robotics (ICINCO) 2017_ (Vol. 2, pp. 154–161). SCITEPRESS - Science and Technology Publications. **Best Paper Award**. https://doi.org/10.5220/0006470701540161
+- **Zapata-Impata, B. S.**, Mateo, C. M., Gil, P., & Pomares, J. (2017). Using Geometry to Detect Grasping Points on 3D Unknown Point Cloud. _In Proceedings of the 14th International Conference on Informatics in Control, Automation and Robotics (ICINCO 2017)_ (Vol. 2, pp. 154–161). SCITEPRESS - Science and Technology Publications. **Best Paper Award**. https://doi.org/10.5220/0006470701540161
 
 ## Experience
 
