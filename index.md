@@ -2,122 +2,64 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+I am Brayan, a PhD student at the University of Alicante (Spain) working in **Robotic Grasping and Machine Learning**. My research mainly focuses in finding ways to compute grasping points using **visual perception** as well as checking properties of the grasp (i.e. stability) using **tactile perception**. As a dreamer person, I would like to provide robots with the ability to challenge us in tasks which are natural for humans like grasping novel objects in the wild, predicting the outcome of a grasp using tactile sense or stabilising a grasped object by controlling the forces applied by the robotic fingers.
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+## Journal Publications
 
 * * *
 
-### Here is an unordered list:
+- **Zapata-Impata, B. S.**, Gil, P., Pomares, J., & Torres, F. (2019). Fast geometry-based computation of grasping points on three-dimensional point clouds. _International Journal of Advanced Robotic Systems_, 16(1). https://doi.org/10.1177/1729881419831846
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+- Velasco, E., **Zapata-Impata, B. S.**, Gil, P., & Torres, F. (2019). Object classification using bimodal perception data extracted from single-touch robotic grasps. _Revista Iberoamericana de Automatica e Informatica Industrial (RIAI)_, (April), 1–12. https://doi.org/10.4995/riai.2019.10923
 
-### And an ordered list:
+- **Zapata-Impata, B. S.**, Gil, P., & Torres, F. (2019). Learning Spatio Temporal Tactile Features with a ConvLSTM for the Direction Of Slip Detection. _Sensors_, 19(3), 1–16. https://doi.org/10.3390/s19030523
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+- Úbeda, A., **Zapata-Impata, B. S.**, Puente, S. T., Gil, P., Candelas, F., & Torres, F. (2018). A Vision-Driven Collaborative Robotic Grasping System Tele-Operated by Surface Electromyography. _Sensors_, 18(7), 2366. https://doi.org/10.3390/s18072366
 
-### And a nested list:
+## Conference Publications
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+* * *
 
-### Small image
+- Garcia-Garcia, A., **Zapata-Impata, B. S.**, Orts-Escolano, S., Gil, P., & Garcia-Rodriguez, J. (2019). TactileGCN: A Graph Convolutional Network for Predicting Grasp Stability with Tactile Sensors. _In International Joint Conference on Neural Networks (IJCNN 2019)_. \[[arxiv](http://arxiv.org/abs/1901.06181)\]
 
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+- **Zapata-impata, B. S.**, Shah, V., Singh, H., & Platt, R. (2019). Approaching Autonomous Open World Transportation. _In International Conference on Robotics and Automation (ICRA 2019). Workshop on High Accuracy Mobile Manipulation in Challenging Environments_. \[[workshop](http://www.rsl.ethz.ch/scientific-events/workshops/ICRA-2019/hamm-workshop-icra19.html)\]
 
-### Large image
+- **Zapata-Impata, B. S.**, Gil, P., Garcia-garcia, A., Orts-escolano, S., & Garcia-rodriguez, J. (2019). Tactile Graphs for Grasp Stability Prediction. _In International Conference on Learning Representations (ICLR 2019). Workshop on Representation Learning on Graphs and Manifolds_ (pp. 2015–2020). \[[paper](https://rlgm.github.io/papers/)\]
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+- Castro-Vargas, J. A., **Zapata-Impata, B. S.**, Gil, P., Garcia-Rodriguez, J., & Torres, F. (2019). 3DCNN Performance in Hand Gesture Recognition Applied to Robot Arm Interaction. _In 8th International Conference on Pattern Recognition Applications and Methods (ICPRAM)_. \[[paper](http://insticc.org/node/TechnicalProgram/icpram/presentationDetails/75702)\]
 
+- **Zapata-Impata, B. S.**, Gil, P., & Torres, F. (2018). Non-Matrix Tactile Sensors: How Can Be Exploited Their Local Connectivity For Predicting Grasp Stability? _In IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2018). Workshop on RoboTac: New Progress in Tactile Perception and Learning in Robotics_, (pp. 1–4). \[[arxiv](http://arxiv.org/abs/1809.05551)\]
 
-### Definition lists can be used with HTML syntax.
+- **Zapata-Impata, B. S.**, Mateo, C. M., Gil, P., & Pomares, J. (2017). Using Geometry to Detect Grasping Points on 3D Unknown Point Cloud. _In Proceedings of the 14th International Conference on Informatics in Control, Automation and Robotics (ICINCO) 2017_ (Vol. 2, pp. 154–161). SCITEPRESS - Science and Technology Publications. **Best Paper Award**. https://doi.org/10.5220/0006470701540161
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+## Experience
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+* * *
 
-```
-The final element.
-```
+- **Rsearcher (April 2017 - present)**
+
+Contracted as a full-time researched in the Automatics, Robotics and Aritificial Vision lab ([AUROVA](http://www.aurova.ua.es/)) at the University of Alicante (Alicante, Spain).
+
+- **Visiting Research Scholar (May 2018 - October 2018)**
+
+Research stay in the [Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/group.html) head by Dr. Robert Platt at Northeastern University (Boston, USA).
+
+- **External Consultant (March 2018 - May 2018)**
+
+External consultant for [Critical Future LTD](https://www.criticalfutureglobal.com/) in charge of designing, implementing and putting in production a computer vision system based on deep learning.
+
+- **Business Intelligence Developer (July 2015 - December 2016)**
+
+BI developer working for [Teralco](https://www.teralco.com/en/) with multi-dimensional DDBB in AWS as well as collaborating with a multi-disciplinary team analising clients.
+
+## Education
+
+* * *
+
+Most of my background is on computer engineering, with specializations in robotics, computer vision and applied artificial intelligence.
+
+- **PhD in Robotics and Machine Learning (2016 - present)**
+
+- **MSc in Computer Engineering (2015 - 2017)**
+
+- **BSc in Computer Engineering (2011 - 2015)**
