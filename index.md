@@ -22,9 +22,9 @@ I am passionate about learning new things and I am continuously looking for chal
 
 * * *
 
-- **Zapata-Impata, B. S.**, Gil, P., & Torres, F.. (2019). vision2tactile: Feeling Touch by Sight. _In Robotics: Science and Systems. Workshop on Closing the Reality Gap in Sim2real Transfer for Robotic Manipulation (RSS 2019)_.
-
 - Garcia-Garcia, A., **Zapata-Impata, B. S.**, Orts-Escolano, S., Gil, P., & Garcia-Rodriguez, J. (2019). TactileGCN: A Graph Convolutional Network for Predicting Grasp Stability with Tactile Sensors. _In International Joint Conference on Neural Networks (IJCNN 2019)_. \[[arxiv](http://arxiv.org/abs/1901.06181)\]
+
+- **Zapata-Impata, B. S.**, Gil, P., & Torres, F.. (2019). vision2tactile: Feeling Touch by Sight. _In Robotics: Science and Systems (RSS 2019). Workshop on Closing the Reality Gap in Sim2real Transfer for Robotic Manipulation_.
 
 - **Zapata-impata, B. S.**, Shah, V., Singh, H., & Platt, R. (2019). Approaching Autonomous Open World Transportation. _In International Conference on Robotics and Automation (ICRA 2019). Workshop on High Accuracy Mobile Manipulation in Challenging Environments_. \[[workshop](http://www.rsl.ethz.ch/scientific-events/workshops/ICRA-2019/hamm-workshop-icra19.html)\]
 
