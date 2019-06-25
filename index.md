@@ -22,19 +22,19 @@ I am passionate about learning new things and I am continuously looking for chal
 
 * * *
 
-- Garcia-Garcia, A., **Zapata-Impata, B. S.**, Orts-Escolano, S., Gil, P., & Garcia-Rodriguez, J. (2019). TactileGCN: A Graph Convolutional Network for Predicting Grasp Stability with Tactile Sensors. _In International Joint Conference on Neural Networks (IJCNN 2019)_. \[[arxiv](http://arxiv.org/abs/1901.06181)\]
+- Garcia-Garcia, A., **Zapata-Impata, B. S.**, Orts-Escolano, S., Gil, P., & Garcia-Rodriguez, J. (2019). TactileGCN: A Graph Convolutional Network for Predicting Grasp Stability with Tactile Sensors. _In International Joint Conference on Neural Networks (IJCNN 2019)_. \[[paper](http://arxiv.org/abs/1901.06181)\]
 
-- **Zapata-Impata, B. S.**, Gil, P., & Torres, F.. (2019). vision2tactile: Feeling Touch by Sight. _In Robotics: Science and Systems (RSS 2019). Workshop on Closing the Reality Gap in Sim2real Transfer for Robotic Manipulation_.
+- **Zapata-Impata, B. S.**, Gil, P., & Torres, F.. (2019). vision2tactile: Feeling Touch by Sight. _In Robotics: Science and Systems (RSS 2019). Workshop on Closing the Reality Gap in Sim2real Transfer for Robotic Manipulation_. \[[paper](https://sim2real.github.io/assets/papers/zapata.pdf/)\]
 
 - **Zapata-impata, B. S.**, Shah, V., Singh, H., & Platt, R. (2019). Approaching Autonomous Open World Transportation. _In International Conference on Robotics and Automation (ICRA 2019). Workshop on High Accuracy Mobile Manipulation in Challenging Environments_. \[[workshop](http://www.rsl.ethz.ch/scientific-events/workshops/ICRA-2019/hamm-workshop-icra19.html)\]
 
-- **Zapata-Impata, B. S.**, Gil, P., Garcia-garcia, A., Orts-escolano, S., & Garcia-rodriguez, J. (2019). Tactile Graphs for Grasp Stability Prediction. _In International Conference on Learning Representations (ICLR 2019). Workshop on Representation Learning on Graphs and Manifolds_ (pp. 2015–2020). \[[paper](https://rlgm.github.io/papers/)\]
+- **Zapata-Impata, B. S.**, Gil, P., Garcia-garcia, A., Orts-escolano, S., & Garcia-rodriguez, J. (2019). Tactile Graphs for Grasp Stability Prediction. _In International Conference on Learning Representations (ICLR 2019). Workshop on Representation Learning on Graphs and Manifolds_ (pp. 2015–2020). \[[paper](https://rlgm.github.io/papers/7.pdf)\]
 
 - Castro-Vargas, J. A., **Zapata-Impata, B. S.**, Gil, P., Garcia-Rodriguez, J., & Torres, F. (2019). 3DCNN Performance in Hand Gesture Recognition Applied to Robot Arm Interaction. _In 8th International Conference on Pattern Recognition Applications and Methods (ICPRAM 2019)_. \[[paper](http://insticc.org/node/TechnicalProgram/icpram/presentationDetails/75702)\]
 
-- **Zapata-Impata, B. S.**, Gil, P., & Torres, F. (2018). Non-Matrix Tactile Sensors: How Can Be Exploited Their Local Connectivity For Predicting Grasp Stability? _In IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2018). Workshop on RoboTac: New Progress in Tactile Perception and Learning in Robotics_, (pp. 1–4). \[[arxiv](http://arxiv.org/abs/1809.05551)\]
+- **Zapata-Impata, B. S.**, Gil, P., & Torres, F. (2018). Non-Matrix Tactile Sensors: How Can Be Exploited Their Local Connectivity For Predicting Grasp Stability? _In IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2018). Workshop on RoboTac: New Progress in Tactile Perception and Learning in Robotics_, (pp. 1–4). \[[paper](http://arxiv.org/abs/1809.05551)\]
 
-- **Zapata-Impata, B. S.**, Mateo, C. M., Gil, P., & Pomares, J. (2017). Using Geometry to Detect Grasping Points on 3D Unknown Point Cloud. _In Proceedings of the 14th International Conference on Informatics in Control, Automation and Robotics (ICINCO 2017)_ (Vol. 2, pp. 154–161). SCITEPRESS - Science and Technology Publications. **Best Paper Award**. https://doi.org/10.5220/0006470701540161
+- **Zapata-Impata, B. S.**, Mateo, C. M., Gil, P., & Pomares, J. (2017). Using Geometry to Detect Grasping Points on 3D Unknown Point Cloud. _In Proceedings of the 14th International Conference on Informatics in Control, Automation and Robotics (ICINCO 2017)_ (Vol. 2, pp. 154–161). SCITEPRESS - Science and Technology Publications. **Best Paper Award**. \[[paper](https://doi.org/10.5220/0006470701540161)\]
 
 ## Experience
 
