@@ -10,6 +10,8 @@ I am passionate about learning new things and I am continuously looking for chal
 
 * * *
 
+- **Zapata-impata, B. S.**, & Gil, P. (2019). Tactile-Driven Grasp Stability and Slip Prediction. _Robotics_, 8(4), 85. https://doi.org/10.3390/robotics8040085
+
 - **Zapata-Impata, B. S.**, Gil, P., Pomares, J., & Torres, F. (2019). Fast geometry-based computation of grasping points on three-dimensional point clouds. _International Journal of Advanced Robotic Systems_, 16(1). https://doi.org/10.1177/1729881419831846
 
 - Velasco, E., **Zapata-Impata, B. S.**, Gil, P., & Torres, F. (2019). Object classification using bimodal perception data extracted from single-touch robotic grasps. _Revista Iberoamericana de Automatica e Informatica Industrial (RIAI)_, (April), 1–12. https://doi.org/10.4995/riai.2019.10923
