@@ -44,7 +44,7 @@ I am passionate about learning new things and I am continuously looking for chal
 
 - **Researcher (April 2017 - present)**
 
-Contracted as a full-time researched in the Automatics, Robotics and Aritificial Vision lab ([AUROVA](http://www.aurova.ua.es/)) at the University of Alicante (Alicante, Spain).
+Contracted as a full-time researcher in the Automatics, Robotics and Aritificial Vision lab ([AUROVA](http://www.aurova.ua.es/)) at the University of Alicante (Alicante, Spain).
 
 - **Visiting Research Scholar (May 2018 - October 2018)**
 
