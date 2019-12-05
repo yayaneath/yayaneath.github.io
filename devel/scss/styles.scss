@@ -35,7 +35,7 @@
 
 // Define base and accent colors
 $base-color: #3498db;  /* Changed to #006699 */
-$base-color-hover: darken($base-color, 10%); /* Changed to 102,153,0 */
+$base-color-hover: darken($base-color, 10%); /* Changed to rgba=102,153,0,0.0 */
 
 // Define background colors
 $background: #fff;
