@@ -7,7 +7,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Brayan Impata</title>
 	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-	<link rel="icon" href="favicon.ico" type="image/x-icon">
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet">
     <link rel="stylesheet" href="libs/font-awesome/css/font-awesome.min.css">
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -34,10 +33,13 @@
                 <a href="#education">Education</a>
             </li>
             <li>
-                <a href="#projects">Publications</a>
+                <a href="#projects">Projects</a>
             </li>
             <li>
                 <a href="#skills">Skills</a>
+            </li>
+            <li>
+                <a href="#publications">Publications</a>
             </li>
         </ul>
     </header>
@@ -78,10 +80,10 @@
                 </div>
                 <div class="col-md-8">
                     <p>
-                        I am Brayan S. Zapata-Impata, a PhD student at the University of Alicante (Spain) working in <b>Robotic Grasping and Machine Learning</b>. My research mainly focuses in finding ways to compute grasping points using <b>visual perception</b> as well as checking properties of the grasp using <b>tactile perception</b>. I would like to provide robots with the ability to tackle tasks which are natural for humans like grasping novel objects in the wild, predicting the outcome of a grasp or stabilising a grasped object using multiple robotic fingers.
+                        I am Brayan S. Zapata-Impata, a PhD student at the University of Alicante (Spain) working in <b>Robotic Grasping and Machine Learning</b>. I am mainly interested in providing robots with manipulation skills which are natural for us humans, like finding ways to grasp objects on the fly using <b>visual perception</b> and checking the state of a grasp with <b>tactile perception</b> for keeping a stable grip. We apply this everyday in our lifes, even without thinking about it consciously. Delivering robots with such autonomous abilities would have a great impact on a wide set of scenarios: from re-stocking robots to space explorers as well as robots helping us at home.
                         <br>
                         <br>
-                        I am passionate about learning new things and I am continuously looking for challenges. During my free time <b>I love reading books, listening and playing music, and also walking my dog</b>.
+                        I consider myself an extroverted person who knows that team work is paramount for achieving big goals. I am passionate about learning new things and I am continuously looking for challenges. During my free time <b>I love reading books, listening and playing music, and also walking my dog</b>.
                     </p>
                 </div>
             </div>
@@ -112,7 +114,7 @@
                 <h3>Computer Vision Consultant</h3>
                 <h4>Critical Future LTD</h4>
                 <p>
-                    I led a computer vision project for a healthcare company, being response for the desig and implementation of a working solution for classifying skin moles in order to predict skin cancer. This was achieved training with open source databases an ensemble of machine learning models, including CNNs in TensorFlow, Gradient Boosting Trees and Support Vector Machines with Scikit-learn.
+                    I led a computer vision project for a healthcare company, being response for the desig and implementation of a working solution for classifying skin moles in order to predict skin cancer. This was achieved training with open source databases an ensemble of machine learning models, including CNNs, Gradient Boosting Trees and Support Vector Machines.
                 </p>
             </div>
 
@@ -189,10 +191,10 @@
                     <div class="project-info">
                         <h3>Grasping Points Calculus: GeoGrasp</h3>
                         <p>
-                            <b>GeoGrasp</b> is one of the first results of my PhD. It is a method for computing grasping points on partial views of objects using 3D point clouds. It performs a fast geometrical analysis which generalises to a wide range of objects. I currently mantain it as an open-source ROS project in C++. Find more at our paper and the project's repo:
+                            <b>GeoGrasp</b> is one of the first results of my PhD. It is a method for computing grasping points on partial views of objects using 3D point clouds. It performs a fast geometrical analysis which generalises to a wide range of objects. Consequently, no learning phase is required and it can pe rapidly applied on various scenarios. Right now, it is being used as the base grasping system for the European project <a href="http://commandia.unizar.es/" target="_blank">COMMANDIA</a>. I currently mantain it as an open-source ROS package written in C++.
                         </p>
 
-                        <a href="https://github.com/yayaneath/GeoGrasp" target="_blank">View Project</a>
+                        <a href="https://github.com/yayaneath/GeoGrasp" target="_blank">View Project Page</a>
                     </div>
                     <!-- End .project-info -->
                 </div>
@@ -206,11 +208,9 @@
                     <div class="project-info">
                         <h3>Stability Prediction based on Tactile Images and Graphs</h3>
                         <p>
-                            Computing visually promising grasps is not enough for developing an autonomous robot. In this project I have worked on the task of predicting the outcome of a grasp before lifting using the BioTac SP tactile sensors. To this end, I have explored two ways for representing the tactile responses: building tactile images or creating graphs that encode the actual spatial distribution of the sensing points. Find more at the project repositories:
+                            Computing visually promising grasps is not enough for developing an autonomous robot. In this project, I have worked on the task of predicting the outcome of a grasp before lifting using the BioTac SP tactile sensors and the Shadow Robot hand. To this end, I have explored two ways for representing the tactile responses: building tactile images or creating graphs that encode the actual spatial distribution of the sensing points.
                         </p>
-                        <a href="#">View Project</a>
-
-                        <a href="#">View Project 2</a>
+                        <a href="https://github.com/yayaneath/biotac-sp-images" target="_blank">View Project Page (Images)</a><span style="display:inline-block; width: 15px;"></span><a href="https://github.com/3dperceptionlab/tactile-gcn" target="_blank">View Project Page (Graphs)</a>
                     </div>
                     <!-- End .project-info -->
                 </div>
@@ -224,9 +224,10 @@
                     <div class="project-info">
                         <h3>Direction of Slip Detection with Temporal Tactile Data</h3>
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+                            I have explored further the possibilities of tactile perception for grasp assessment. It is important for the autonomy of a robot to recognise whether a grasped object is slipping and also detect in which direction. This would help the system trigger appropriate re-grasping strategies for keeping a stable grip. This problem was approached using temporal sequences of tactile responses for learning to detect up to 7 different slippage patterns.
                         </p>
-                        <a href="#">View Project</a>
+
+                        <a href="https://github.com/yayaneath/BioTacSP-DoS" target="_blank">View Project Page</a>
                     </div>
                     <!-- End .project-info -->
                 </div>
@@ -240,9 +241,10 @@
                     <div class="project-info">
                         <h3>AutOTrans: Autonomous Open world Transportation System</h3>
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+                            In many cities, trash bags often accumulate through the week, waiting to be picked up. Farm workers must often pick up and carry heavy tools daily. Construction workers spend a lot of time transporting materials through the construction site. These are all labor intensive tasks that could benefit from mobile robotic manipulation. For this project, I focused on the problem of picking and dropping novel objects in an open world environment. This work was carried during a research internship at the <a href="http://www.ccs.neu.edu/home/rplatt/" target="_blank">Helping Hands Lab head by Dr. Robert Platt</a>.
                         </p>
-                        <a href="#">View Project</a>
+
+                        <a href="https://github.com/yayaneath/autotrans" target="_blank">View Project Page</a>
                     </div>
                     <!-- End .project-info -->
                 </div>
@@ -256,9 +258,10 @@
                     <div class="project-info">
                         <h3>Feeling Touch by Sight</h3>
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+                            Latest trends in robotic grasping combine vision and touch for improving the performance of systems at tasks like stability prediction. However, tactile data are only available during the grasp, limiting the set of scenarios in which multi-modal solutions can be applied. Could we obtain it prior to grasping? We humans can estimate the feeling of objects without even making contact with them! In this on-going project I work on novel ways for generating robotic tactile data from visual perception.
                         </p>
-                        <a href="#">View Project</a>
+
+                        <a href="https://github.com/yayaneath/vision2tactile" target="_blank">View Project Page</a>
                     </div>
                     <!-- End .project-info -->
                 </div>
@@ -270,7 +273,7 @@
                     </div>
                     <!-- End .project-image -->
                     <div class="project-info">
-                        <h3>More Projects</h3>
+                        <h3>Reinforcement Learning</h3>
                         <p>
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
                         </p>
@@ -311,7 +314,7 @@
     </div>
     <!-- End #skills -->
 
-    <div class="optional-section background-alt">
+    <div id="publications" class="optional-section background-alt">
         <h2 class="heading">Publications</h2>
 
         <div class="optional-section-block">
